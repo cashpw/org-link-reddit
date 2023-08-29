@@ -1,0 +1,7 @@
+#+TITLE: org-link-reddit
+
+Provides an =org-link= type for Reddit.
+
+#+begin_example org-mode
+[[reddit:r/foo][bar]]
+#+end_example
